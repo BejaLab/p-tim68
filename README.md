@@ -1,4 +1,4 @@
-#P-TIM68
+# P-TIM68
 
 Script used in the analysis of the paper "A myovirus encoding both photosystem I and II proteins enhances cyclic electron flow in infected Prochlorococcus cells".
 
